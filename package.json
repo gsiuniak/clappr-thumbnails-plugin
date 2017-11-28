@@ -10,7 +10,7 @@
   },
   "author": "Thomas Jenkinson <tjcode@outlook.com>",
   "license": "MIT",
-  "repository": "tjenkinson/clappr-thumbnails-plugin",
+  "repository": "https://github.com/gsiuniak/clappr-thumbnails-plugin",
   "devDependencies": {
     "babel-core": "^6.7.5",
     "babel-loader": "^6.2.4",
